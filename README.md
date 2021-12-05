@@ -1,2 +1,2 @@
 # HostelManagementSystem
-This repository contains my Hostel Management System project.
+This project was build on Visual Studio 2017.
